@@ -1,0 +1,36 @@
+.rel
+{
+    position:relative;
+    width:100px;
+    height:100px;
+    background:red;
+    left:10px;
+    top:100px;
+}
+.fix
+{
+    position:fixed;
+    width:100px;
+    height:100px;
+    background:red;
+    left:10px;
+    top:100px;
+}
+.inh
+{
+    position:inherit;
+    width:100px;
+    height:100px;
+    background:red;
+    left:10px;
+    top:100px;
+}
+.abs
+{
+    position:absolute;
+    width:100px;
+    height:100px;
+    background:red;
+    left:10px;
+    top:100px;
+}
