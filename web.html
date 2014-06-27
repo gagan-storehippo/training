@@ -1,18 +1,109 @@
 <!DOCTYPE html>
 <html>
-<head>  <link rel="stylesheet" href="css/web.css" >
+<head>  <link rel="stylesheet" href="css/web.css" type="text/css" >
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <script type="text/javascript" src="script/jquery.min.js"></script>
+    <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+
     <title></title>
 </head>
-<body>
+<body >
 <div class="top">
+    <img src="css/manusis.jpg" height="150px" width="250px">
 </div>
-<div class="marq"></div>
+
+<div class="menu">
+    <div class="btn-group">
+        <button type="button" class="btn btn-default">Home</button>
+
+        <button type="button" class="btn btn-default" onclick=window.open("http://www.manusis.com/portfolio")>Portfolio</button>
+        <button type="button" class="btn btn-default" onclick=window.open("http://www.manusis.com/products")>Products</button>
+        <button type="button" class="btn btn-default" onclick=window.open("http://www.manusis.com/services")>Service Offerings</button>
+        <button type="button" class="btn btn-default" onclick=window.open("http://www.manusis.com/contact")>Contact Us</button>
+                 <!-- Dropdown-->
+        <div class="btn-group">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+            login to Join
+            <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu" style="position: absolute">
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwallstanalyst.com%2Fmanusis-technologies-push-ahead-with-mobile-e-commerce-solutions-for-smes%2F&t=Manusis%20Technologies%20Push%20Ahead%20with%20Mobile%20E-Commerce%20Solutions%20for%20SMEs&s=100&p[url]=http%3A%2F%2Fwallstanalyst.com%2Fmanusis-technologies-push-ahead-with-mobile-e-commerce-solutions-for-smes%2F&p[images][0]=http%3A%2F%2Fwallstanalyst.com%2FWP-WSA-V3%2Fwp-content%2Fplugins%2Fwp-o-matic%2Fcache%2F6fd86304b9_pixel.gif&p[title]=Manusis%20Technologies%20Push%20Ahead%20with%20Mobile%20E-Commerce%20Solutions%20for%20SMEs" target="_blank">
+                Facebook</a></li>
+            <li role="presentation"><a role="menuitem" href="http://twitter.com/share?url=http%3A%2F%2Fwallstanalyst.com%2Fmanusis-technologies-push-ahead-with-mobile-e-commerce-solutions-for-smes%2F&text=Hey%20check%20this%20out" target="_blank">
+                Twitter</a></li>
+            <li role="presentation"><a role="menuitem" href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwallstanalyst.com%2Fmanusis-technologies-push-ahead-with-mobile-e-commerce-solutions-for-smes%2F&title=Manusis%20Technologies%20Push%20Ahead%20with%20Mobile%20E-Commerce%20Solutions%20for%20SMEs" target="_blank">
+                Linkedin</a></li>
+
+        </ul>
+    </div>
+</div>
+    </div>
+
+</div>
+<div class="marq">
+    <marquee onmouseover="this.stop()" onmouseout="this.start()" behavior="alternate"><a href="http://www.manusis.com/services#web_development">
+
+    Custom Web Development</a> , Mobile Development , eCommerce Applications ,
+    <a href="http://www.storehippo.com/">Online Stores</a>
+    </marquee>
+</div>
 <div class="middle"></div>
-<div class="slider"></div>
+
+<div class="slider">
+
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <img src="css/slide1.jpg" height="400px" width="800px">
+                <div class="carousel-caption">
+                  <h2> Cross Platforms & Cross Browsers </h2>
+                    <h4>Host Anywhere</h4>
+                </div>
+            </div>
+            <div class="item">
+                <img src="css/rbs.jpg" height="400px" width="800px">
+                <div class="carousel-caption">
+                    <h2> Robust and Secure</h2>
+                    <p> We take application Security very seriously.</p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="css/rcrd.jpg" height="400px" width="800px">
+                <div class="carousel-caption">
+                    <h2> Robust and Secure</h2>
+                    <p> We take application Security very seriously.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+        </a>
+        <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right"></span>
+            </a>
+    </div>
+</div>
+
 <div class="mmid"></div>
 <div class="mmid1"></div>
 <div class="mmid2"></div>
 <div class="bottom"></div>
-<div class="bbottom"></div>
+<div class="bbottom">
+    <h4> &reg &copy 2014 Manusis Technologies Pvt. Ltd.. All Rights Reserved.</h4>
+</div>
 </body>
 </html>
