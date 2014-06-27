@@ -52,7 +52,7 @@ position:absolute;
     border-radius:10px;
     top:170px;
     width:800px;
-    height:400px;
+    height:430px;
     position:absolute;
 
 }
@@ -97,10 +97,10 @@ position:absolute;
 {
     position:absolute;
     left:290px;
-    background-color:#808080;
-    top:590px;
+    background-color:#f5f5f5;
+    top:620px;
     width:800px;
-    height:580px;
+    height:530px;
     border:1px solid blue;
     border-radius:10px;
 
