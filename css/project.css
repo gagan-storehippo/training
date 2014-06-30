@@ -1,0 +1,11 @@
+
+.slider
+{
+    left: 80px;
+    border:2px solid gray;
+    border-radius:10px;
+    top:120px;
+    height:430px;
+    position:absolute;
+
+}
