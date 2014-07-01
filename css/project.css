@@ -56,17 +56,17 @@
     z-index: 1;
     background-color: #000000;
 }
-.lower{                                                       ck
-    top: 460px;
+.lower{
+    top: 475px;
     background-color: #000000;
     opacity: 0.8;
     position: absolute;
     width: 100%;
 
 }
- .page2
+ .webdesign
  {
-     top: 680px;
+     top: 650px;
      position: absolute;
      left:  0px;
      width: 100%;
@@ -75,3 +75,102 @@
      background-repeat: repeat;
      background-color: dodgerblue;
  }
+ .graphic
+ {
+     top: 1150px;
+     position: absolute;
+     left:  0px;
+     width: 100%;
+     height: 500px;
+     background-image:url('bg-patch2.jpg');
+     background-repeat: repeat;
+     background-color: dodgerblue;
+ }
+ .host
+ {
+     top: 1650px;
+     position: absolute;
+     left:  0px;
+     width: 100%;
+     height: 500px;
+     background-image:url('bg-patch1.jpg');
+     background-repeat: repeat;
+     background-color: dodgerblue;
+ }
+ .mobile
+ {
+     top: 2150px;
+     position: absolute;
+     left:  0px;
+     width: 100%;
+     height: 500px;
+     background-image:url('bg-patch2.jpg');
+     background-repeat: repeat;
+     background-color: dodgerblue;
+ }
+ .data
+ {
+     top: 2650px;
+     position: absolute;
+     left:  0px;
+     width: 100%;
+     height: 500px;
+     background-image:url('bg-patch1.jpg');
+     background-repeat: repeat;
+     background-color: dodgerblue;
+ }
+ .soft
+ {
+     top: 3150px;
+     position: absolute;
+     left:  0px;
+     width: 100%;
+     height: 500px;
+     background-image:url('bg-patch2.jpg');
+     background-repeat: repeat;
+     background-color: dodgerblue;
+ }
+ .int
+ {
+     top: 3650px;
+     position: absolute;
+     left:  0px;
+     width: 100%;
+     height: 500px;
+     background-image:url('bg-patch1.jpg');
+     background-repeat: repeat;
+     background-color: dodgerblue;
+ }
+ .ITcons
+ {
+     top: 4150px;
+     position: absolute;
+     left:  0px;
+     width: 100%;
+     height: 500px;
+     background-image:url('bg-patch2.jpg');
+     background-repeat: repeat;
+     background-color: dodgerblue;
+ }
+ .source
+ {
+     top: 4650px;
+     position: absolute;
+     left:  0px;
+     width: 100%;
+     height: 500px;
+     background-image:url('bg-patch1.jpg');
+     background-repeat: repeat;
+     background-color: dodgerblue;
+ }
+.footer
+{
+    position: absolute;
+    text-align: left;
+    top: 5150px;
+    height: 200px;
+    width: 100%;
+    background-color: #000000;
+   color: #ffffff;
+
+}
