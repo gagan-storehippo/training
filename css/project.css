@@ -1,7 +1,6 @@
 .slider
 {
     top:100px;
-    height:430px;
     z-index: -1;
 }
 .menu{
@@ -57,119 +56,119 @@
     background-color: #000000;
 }
 .lower{
-    top: 475px;
+    top: 470px;
     background-color: #000000;
     opacity: 0.8;
-    position: absolute;
+    /*position: absolute;*/
     width: 100%;
+    margin-top: -180px;
 
 }
  .webdesign
  {
-     top: 650px;
-     position: absolute;
-     left:  0px;
-     width: 100%;
-     height: 500px;
+
+     /*position: absolute;*/
+     /*left:  0px;*/
+     /*width: 100%; */
+     /*height: 500px;*/
      background-image:url('bg-patch1.jpg');
-     background-repeat: repeat;
-     background-color: dodgerblue;
+     /*background-repeat: repeat;*/
+     /*background-color: dodgerblue;*/
  }
  .graphic
  {
-     top: 1150px;
-     position: absolute;
-     left:  0px;
-     width: 100%;
-     height: 500px;
+     /*top: 1150px;*/
+     /*position: absolute;*/
+     /*left:  0px;*/
+     /*width: 100%;*/
+     /*height: 500px;*/
      background-image:url('bg-patch2.jpg');
-     background-repeat: repeat;
-     background-color: dodgerblue;
+     /*background-repeat: repeat;*/
+     /*background-color: dodgerblue;*/
  }
  .host
  {
-     top: 1650px;
-     position: absolute;
-     left:  0px;
-     width: 100%;
-     height: 500px;
+     /*top: 1650px;*/
+     /*position: absolute;*/
+     /*left:  0px;*/
+     /*width: 100%;*/
+     /*height: 500px;*/
      background-image:url('bg-patch1.jpg');
-     background-repeat: repeat;
-     background-color: dodgerblue;
+     /*background-repeat: repeat;*/
+     /*background-color: dodgerblue;*/
  }
  .mobile
  {
-     top: 2150px;
-     position: absolute;
-     left:  0px;
-     width: 100%;
-     height: 500px;
+     /*top: 2150px;*/
+     /*position: absolute;*/
+     /*left:  0px;*/
+     /*width: 100%;*/
+     /*height: 500px;*/
      background-image:url('bg-patch2.jpg');
-     background-repeat: repeat;
-     background-color: dodgerblue;
+
+     /*background-repeat: repeat;*/
+     /*background-color: dodgerblue;*/
  }
  .data
  {
-     top: 2650px;
-     position: absolute;
-     left:  0px;
-     width: 100%;
-     height: 500px;
+     /*top: 2650px;*/
+     /*position: absolute;*/
+     /*left:  0px;*/
+     /*width: 100%;*/
+     /*height: 500px;*/
      background-image:url('bg-patch1.jpg');
-     background-repeat: repeat;
-     background-color: dodgerblue;
+     /*background-repeat: repeat;*/
+     /*background-color: dodgerblue;*/
  }
  .soft
  {
-     top: 3150px;
-     position: absolute;
-     left:  0px;
-     width: 100%;
-     height: 500px;
+     /*top: 3150px;*/
+     /*position: absolute;*/
+     /*left:  0px;*/
+     /*width: 100%;*/
+     /*height: 500px;*/
      background-image:url('bg-patch2.jpg');
-     background-repeat: repeat;
-     background-color: dodgerblue;
+     /*background-repeat: repeat;*/
+     /*background-color: dodgerblue;*/
  }
  .int
  {
-     top: 3650px;
-     position: absolute;
-     left:  0px;
-     width: 100%;
-     height: 500px;
+     /*top: 3650px;*/
+     /*position: absolute;*/
+     /*left:  0px;*/
+     /*width: 100%;*/
+     /*height: 500px;*/
      background-image:url('bg-patch1.jpg');
-     background-repeat: repeat;
-     background-color: dodgerblue;
+     /*background-repeat: repeat;*/
+     /*background-color: dodgerblue;*/
  }
  .ITcons
  {
-     top: 4150px;
-     position: absolute;
-     left:  0px;
-     width: 100%;
-     height: 500px;
+     /*top: 4150px;*/
+     /*position: absolute;*/
+     /*left:  0px;*/
+     /*width: 100%;*/
+     /*height: 500px;*/
      background-image:url('bg-patch2.jpg');
-     background-repeat: repeat;
-     background-color: dodgerblue;
+     /*background-repeat: repeat;*/
+     /*background-color: dodgerblue;*/
  }
  .source
  {
-     top: 4650px;
-     position: absolute;
-     left:  0px;
-     width: 100%;
-     height: 500px;
+     /*top: 4650px;*/
+     /*position: absolute;*/
+     /*left:  0px;*/
+     /*width: 100%;*/
+     /*height: 500px;*/
      background-image:url('bg-patch1.jpg');
-     background-repeat: repeat;
-     background-color: dodgerblue;
+     /*background-repeat: repeat;*/
+     /*background-color: dodgerblue;*/
  }
 .footer
 {
-    position: absolute;
-    text-align: left;
-    top: 5150px;
-    height: 200px;
-    width: 100%;
+    /*padding-top: 50px;*/
+    /*text-align: left;*/
+    /*width: 100%;*/
     background-color: #000000;
    color: #ffffff;
 
