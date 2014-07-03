@@ -1,0 +1,42 @@
+
+.image
+{
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    z-index: -1;
+}
+.menu
+{
+    color: #ffffff;
+    width: 100%;
+    z-index: 1;
+    margin: 0px;
+    padding: 0px;
+    opacity: 0.8;
+    border: 0px;
+    position: absolute;
+}
+.tech
+{
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+.row
+{
+    margin: 0px !important;
+}
+/*.la  a*/
+/*{*/
+    /*background-color: #dbdbdb;*/
+/*}*/
+.la a.list-group-item {
+    color: #236D7A;
+    background-color: #DBDBDB;
+
+}
+
+.hjhj{
+    text-align: center;
+    background-color: #236D7A;
+}
