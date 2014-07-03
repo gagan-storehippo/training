@@ -1,4 +1,6 @@
-
+ .shift{
+     padding-left: 50px;
+ }
 .image
 {
     background-repeat: no-repeat;
@@ -33,10 +35,19 @@
 .la a.list-group-item {
     color: #236D7A;
     background-color: #DBDBDB;
+    width: 80%;
+
 
 }
+.heading
+{
+    font-family: open-sans;
+}
+.black{
+    background-color: #131e1b;
+}
+.font1{
+    font-family: calibri;
 
-.hjhj{
-    text-align: center;
-    background-color: #236D7A;
+
 }
